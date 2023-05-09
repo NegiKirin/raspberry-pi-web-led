@@ -53,11 +53,11 @@
             <artifactId>spring-boot-starter-websocket</artifactId>
         </dependency>
 
-        <!-- Raspbery Pi GPIO repository. 1.2-SNAPSHOT provides support for BMC8325 -->
+        <!-- https://mvnrepository.com/artifact/com.pi4j/pi4j-core -->
         <dependency>
             <groupId>com.pi4j</groupId>
             <artifactId>pi4j-core</artifactId>
-            <version>1.2-SNAPSHOT</version>
+            <version>1.2</version>
         </dependency>
     </dependencies>
 

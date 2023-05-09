@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: Admin
+Build-Jdk: Oracle OpenJDK version 19.0.2
+Implementation-Title: Raspberry Pi Web Server - RGB LED Control
+Implementation-Version: 1.0.0-SNAPSHOT
+Implementation-Vendor-Id: com.gellai
+Main-Class: ${start-class}
+
